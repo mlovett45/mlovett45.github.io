@@ -1,6 +1,6 @@
 	body {
 		color: pink;
-	 	background-color: DarkOrange;
+	 	background-color: white;
 	 }
 
 	 p {
@@ -19,7 +19,7 @@
 	 	color: White;
 	 	font-size: 72px;
 	 	font-family: ComicSansMS, cursive,  sans-serif;
-	 	background-color: MediumPurple; 
+	 	background-color: grey; 
 	 	border-radius: 15px;
 	 }
 
