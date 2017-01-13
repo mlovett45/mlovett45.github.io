@@ -1,4 +1,33 @@
-body{
+	body {
+		color: pink;
+	 	background-color: DarkOrange;
+	 }
+
+	 p {
+		 
+		color: pink;
+		font-size: 18;
+		font-family: LucidaConsole, Monaco, monospace; 
+		text-indent: 70px;
+	 }
+
+	 title {
+	 	color: black;
+	 }
+
+	 h1 {
+	 	color: white;
+	 	font-family: ComicSansMS, cursive,  sans-serif;
+	 	font-size: 72;
+	 }
+
+	 img {
+	 	text-indent:100;
+	 }
+    
   
-  color:pink;
-}
+	
+	 h1 {
+	 	background-color: Gray;
+	 	border-radius: 15px;
+	 }
