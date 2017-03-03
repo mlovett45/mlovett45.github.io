@@ -3,13 +3,16 @@
 	 	background-color: white;
 	 }
 
-	 p {
-		 
-		color: Black;
-		font-size: 18;
-		font-family: LucidaConsole, Monaco, monospace; 
-		text-indent: 70px;
-	 }
+	 p {	 
+  color: black;
+  font-size: 86px;
+  font-family: ComicSansMS, cursive, sans-serif;
+  text-indent: 18px;
+  text-shadow: 2px 2px lightgray;
+	border: 18px solid black ;
+}
+		
+
 
 	 title {
 	 	color: black;
